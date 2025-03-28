@@ -1,0 +1,5 @@
+# Build folder
+bin/
+
+# Linker script
+generated.*.ld
